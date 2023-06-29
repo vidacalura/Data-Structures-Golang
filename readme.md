@@ -9,4 +9,5 @@ Neste repositório você encontra as seguintes estruturas de dados:
 * (Unordered) Arrays
 * Sets
 * Ordered Arrays
+* Linked Lists
 * Sorting
